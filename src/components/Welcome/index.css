@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.background {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
